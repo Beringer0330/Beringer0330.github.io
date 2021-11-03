@@ -175,8 +175,9 @@ width: 11px;
 }
 
 .navbar-brand a {
-  display: block;
+  display: block; 
   margin-left: 10px;
+  
 }
 
 .navigation .navbar-nav > li > a {
