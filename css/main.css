@@ -176,6 +176,7 @@ width: 11px;
 
 .navbar-brand a {
   display: block;
+  margin-left: 10px;
 }
 
 .navigation .navbar-nav > li > a {
