@@ -161,11 +161,23 @@ px      68    160    252    */
   width: 100%;
 }
 
+.services-mas{
+  width: 100%;
+}
+
 #service .media{
   padding-left: 0px;
 }
 
 #service .media > .pull-left{
+  margin-right: -15px;
+}
+
+
+#service .services-mas{
+  padding-left: 0px;
+}
+#service .services-mas> .pull-left{
   margin-right: -15px;
 }
 
