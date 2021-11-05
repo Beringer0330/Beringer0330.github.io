@@ -719,7 +719,7 @@ figcaption.mask span {
 
 
 /*============================================================
-    Testimonios
+   Asocia
 ============================================================*/
 
 #asociados {
@@ -729,6 +729,10 @@ figcaption.mask span {
     
 }
 
+#asociados .section-title{
+  margin: 0 auto;
+ 
+}
 #asociados .section-title h2,p{
   color: #ffffff;
  
@@ -750,6 +754,11 @@ figcaption.mask span {
   background-color: #35848C;
 }
 
+#testimonios .section-title{
+  margin: 0 auto 0px;
+ 
+
+}
 #testimonios .section-title h2,p{
   color: #ffffff;
   
@@ -765,30 +774,8 @@ figcaption.mask span {
   width: 100px;
 }
 
-.about-us figure{
-  margin:  auto;
-}
 
-.about-us img{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width: 35%;
-  height: 45%;
-  border:5px solid #262626;
-}
 
-.about-us h3{
-  margin-right: 20%;
-  margin-left: 20%;
-  margin-bottom: 10px;
-  
-}
-
-.about-us p{
-  margin-right: 5%;
-  margin-left: 5%;
-  margin-bottom: 5%;
-}
 
 
 
@@ -1169,7 +1156,7 @@ figcaption.mask span {
   background-color: #202426;
   border: 0 none;
   color: #fff;
-  padding: 16px 15px;
+  padding: 20px 15px;
   position: absolute;
   right: 18px;
   top: 1px;
